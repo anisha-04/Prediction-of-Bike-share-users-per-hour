@@ -1,6 +1,6 @@
 # Prediction-of-Bike-share-users-per-hour
 
-
+<img src="https://github.com/anisha-04/IOS-Development/blob/main/GIF/project-2.jpg" />
 
 In this project, we will be exploring a dataset that provides information on a bike-sharing system.
 
